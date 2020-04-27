@@ -1,1 +1,1 @@
-current_second = 
+current_second = Time.now
